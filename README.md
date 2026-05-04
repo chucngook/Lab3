@@ -1,4 +1,4 @@
-# Bài thực hành kiểm thử hộp đen (Black Box Testing)
+# Bài thực hành kiểm thử hộp đen + hộp trắng (Black Box Testing)
 
 ## 1. Mô tả bài tập
 
